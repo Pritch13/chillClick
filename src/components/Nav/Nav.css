@@ -1,0 +1,11 @@
+.head {
+  font-size: 100pt;
+  text-align: center;
+  color: rgba(0, 218, 218, 0.295);
+  font-family: 'Righteous', cursive;
+  -webkit-text-stroke: 3px black;
+}
+
+nav {
+  width: 100%;
+}
